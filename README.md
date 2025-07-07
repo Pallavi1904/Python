@@ -15,21 +15,25 @@ It serves as a **quick reference**, **revision guide**, and **learning companion
 
 ---
 
-## 📂 Repository Structure
-python-advanced-cheatsheet/
-│
-├── Chapter-01
-├── Chapter-02
-├── Chapter-03
-├── Chapter-04
-├── Chapter-05
-├── Chapter-06
-├── Chapter-07
-├── Chapter-08
-├── Chapter-09
-├── Chapter-10
-├── Chapter-11
-├── Chapter-12
-└── README.md
+## 📘 Chapters Overview
+
+| Chapter | Topic |
+|--------|-------|
+| 01 | Python Basics (Syntax, Variables, I/O, Comments) |
+| 02 | Control Flow (If-Else, Loops, Break/Continue) |
+| 03 | Data Types & Collections (List, Tuple, Dict, Set) |
+| 04 | Functions (Def, Args, Kwargs, Scope) |
+| 05 | Object-Oriented Programming (Classes, Objects, Inheritance) |
+| 06 | File Handling (Read, Write, Append, File modes) |
+| 07 | Exceptions (Try/Except, Custom Errors) |
+| 08 | Modules & Packages (Import, Custom Modules) |
+| 09 | Advanced Functions (Lambda, Map, Filter, Reduce) |
+| 10 | Iterators & Generators (Iter, Next, Yield) |
+| 11 | Decorators & Closures (Wrapper Functions, Function Factories) |
+| 12 | Context Managers & Miscellaneous (With, Dunder Methods, etc.) |
+
+
+
+
 
 
